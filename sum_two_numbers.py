@@ -18,3 +18,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# comment: This code defines a main function that prompts the user to enter two numbers, calculates their sum, and prints the result.
+# It also includes error handling to ensure that the user inputs valid numeric values.
