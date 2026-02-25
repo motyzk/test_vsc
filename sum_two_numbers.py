@@ -5,7 +5,7 @@ def main():
         try:
             # Taking two numbers as input from the user
             num1 = float(input("Enter the first number: "))
-            num2 = float(input("Enter the second number: "))
+            num2 = float(input("Enter the forth number: "))
 
             # Calculating the sum
             result = num1 + num2
